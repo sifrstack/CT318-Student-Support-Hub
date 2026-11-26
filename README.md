@@ -10,19 +10,17 @@ The prototype explores how students can find clearer administrative guidance, id
 
 ## Live Interactive Prototype
 
-**https://sifrstack.github.io/CT318-Student-Support-Hub/
-**
+https://sifrstack.github.io/CT318-Student-Support-Hub/
 
 The link opens the interactive Student Support Hub directly in a web browser.
 
 ## Figma Designs and Wireframes
 
-[https://www.figma.com/design/DSfBmEIlBfIY0K9qvASdGa/CT318-Group-Project?node-id=3-3&t=vQa7y92nDftC0oPe-1
+https://www.figma.com/design/DSfBmEIlBfIY0K9qvASdGa/CT318-Group-Project?node-id=3-3&t=vQa7y92nDftC0oPe-1
 
 https://www.figma.com/design/zKtfc9tD7YIROb6e6aHqPx/CT318-Group-10-%E2%80%94-Deliverable-2-%E2%80%94-Three-Wireframe-Concepts?node-id=8-2&t=VP7nmLApuXo9hWVs-1
 
 https://www.figma.com/design/zKtfc9tD7YIROb6e6aHqPx/CT318-Group-10-%E2%80%94-Deliverable-2-%E2%80%94-Three-Wireframe-Concepts?node-id=0-1&t=VP7nmLApuXo9hWVs-1
-)
 
 The Figma file contains the design concepts and wireframes developed during the project.
 
